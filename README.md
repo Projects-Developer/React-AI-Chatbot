@@ -1,4 +1,4 @@
-# React-AI-Chatbot
+# React AI Chatbot
 React AI Chatbot Code, Documetn And Video Tutorial
 
 ![REACT AI ChatBot THUMBNAIL](https://github.com/user-attachments/assets/b7b3baa4-5054-4610-8af1-3d1584744884)
